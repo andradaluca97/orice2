@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Geometrie roti",
+      "day": "27 iulie ora 12:30",
+      "reminder": true
+    },
+    {
+      "text": "Distributie",
+      "day": "16/07/2021 12:20 ",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
